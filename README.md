@@ -1,3 +1,7 @@
+# Repository has been moved to https://github.com/appleseedlab/superc/
+
+Please see <https://github.com/appleseedlab/superc/> for the latest work on SuperC.  This repository has been archived.
+
 # xtc
 
 A clone of the xtc project including SuperC and Kmax.  The main homepage for xtc is http://www.cs.nyu.edu/xtc/, where past versions and links to publications can be found.
